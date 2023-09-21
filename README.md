@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋 I am Leo!
 
 I want to make various innovations in the IT industry in whatever way possible. I want to become someone who excels in all the major fields of IT, but I am someone focused on C, Java, and Python. My dream is to realize the next step in improving the IT Sector in all fields available. 
