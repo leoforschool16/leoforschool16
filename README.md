@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Leo Nicholas Zotomayor and I want to make various innovations in the IT industry in whatever way possible. I want to become someone who excels in all the major fields of IT, but I am someone focused on C, Java, and Python. My dream is to realize the next step in improving the IT Sector in all fields available. 
 
 <!--
 **leoforschool16/leoforschool16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
