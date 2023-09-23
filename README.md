@@ -9,6 +9,9 @@ My qualifications include Cisco Networking Essentials certification and HubSpot'
 
 📫 How to reach me: leozotomayorforschool@gmail.com
 
+![ablaze](https://github.com/leoforschool16/leoforschool16/assets/142653961/ff6cb1cd-57e6-44ef-9079-17e42bcf2dd6)
+
+
 <!--
 **leoforschool16/leoforschool16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
