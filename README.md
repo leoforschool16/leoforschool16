@@ -7,9 +7,7 @@ I am passionate about driving innovation within the IT industry and aspire to ex
 
 My qualifications include Cisco Networking Essentials certification and HubSpot's SEO certification, which demonstrate my commitment to staying up-to-date with industry standards and best practices. I am dedicated to making a meaningful impact in IT by leveraging my skills, experience, and a continuous thirst for knowledge and innovation.
 
-📫 How to reach me: 
-
-E-mail: leozotomayorforschool@gmail.com
+📫 How to reach me: leozotomayorforschool@gmail.com
 
 <!--
 **leoforschool16/leoforschool16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
